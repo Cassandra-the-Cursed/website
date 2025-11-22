@@ -1,11 +1,11 @@
 
 @font-face {
   font-family: "VT323";
-  src: url(VT323-Regular.ttf);
+  src: url(assets/VT323-Regular.ttf);
 }
 @font-face {
   font-family: "RobotoCondensed";
-  src: url(RobotoCondensed-VariableFont_wght.ttf);
+  src: url(assets/RobotoCondensed-VariableFont_wght.ttf);
 }
 :root {
   --dark-pink: #e00;
@@ -46,7 +46,7 @@ h1,h2,h3 {
   font-family:VT323;
 }
 h1 {
-  background: url(transkaotisk.svg) no-repeat top left;
+  background: url(assets/transkaotisk.svg) no-repeat top left;
   background-size: 15rem;
   padding: 13rem 2rem 0.5rem;
   margin: 0rem 0 0 0;
