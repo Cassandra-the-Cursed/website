@@ -151,6 +151,9 @@ article {
 article p {
   white-space:pre-wrap;
 }
+article img {
+  max-width: 100%;
+}
 article.single p {
   padding: 1.5rem;
   max-width: 720px;
